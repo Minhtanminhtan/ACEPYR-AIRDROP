@@ -6,3 +6,4 @@ Update README with clearer project description and goals
 Refactor content for better readability and consistency
 Optimize folder structure for easier navigation
 Add examples to clarify main concepts and workflow
+Finalize first draft version and prepare for future updates
